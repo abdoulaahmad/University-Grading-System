@@ -1,4 +1,5 @@
 # University Grading System
+Using 4-dimensional Array data Structure 
 
 ## Overview
 This Java program simulates a system for storing student grades in a university setting. The university has multiple faculties, each containing departments that offer various courses across multiple semesters. Users can input and store grades for specific courses in specific departments and view the courses offered.
